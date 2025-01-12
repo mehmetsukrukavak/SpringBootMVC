@@ -7,7 +7,7 @@
 </head>
     <body>
         <h1>Hello Spring Boot MVC</h1>
-        <h2>Entering Alienr</h2>
+        <h2>Entering Alien</h2>
         <form action="addAlien">
             <label for="num1">Alien Id :</label>
             <input type="text" id="aid" name="aid"><br>
